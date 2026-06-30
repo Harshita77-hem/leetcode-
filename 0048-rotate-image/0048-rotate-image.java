@@ -2,15 +2,24 @@ class Solution {
     public void rotate(int[][] arr) {
         int n=arr.length;
         int m=arr[0].length;
-        int[][] ans=new int[n][m];
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                ans[j][(n-1)-i]=arr[i][j];
+            for(int j=i+1;j<m;j++){
+                int temp=arr[i][j];
+                arr[i][j]=arr[j][i];
+                arr[j][i]=temp;
+
             }
         }
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                arr[i][j]=ans[i][j];
+            int left=0;
+            int right=n-1;
+            while(left<right){
+                int temp=arr[i][left];
+                arr[i][left]=arr[i][right];
+                arr[i][right]=temp;
+                left++;
+                right--;
+                
             }
         }
         
