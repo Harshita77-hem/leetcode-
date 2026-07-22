@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Harshita77-hem/leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harshita77-hem/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harshita77-hem/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Harshita77-hem/leetcode-/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshita77-hem/leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Harshita77-hem/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Bit Manipulation
