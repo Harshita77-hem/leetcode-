@@ -3,14 +3,9 @@ class Solution {
         int m=haystack.length();
         int n=needle.length();
         for(int i=0;i<=m-n;i++){
-            int j=0;
-            while(j<n && haystack.charAt(i+j)==needle.charAt(j)){
-                j++;
-            }
-            if(j==n){
+            if(haystack.substring(i,i+n).equals(needle)){
                 return i;
             }
-
         }
         return -1;
         
