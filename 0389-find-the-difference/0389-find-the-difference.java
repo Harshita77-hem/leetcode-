@@ -1,16 +1,15 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int[] freq=new int[26];
+        char xor=0;
+
         for(char ch:s.toCharArray()){
-            freq[ch-'a']++;
+            xor^=ch;
+
         }
         for(char ch:t.toCharArray()){
-            if(freq[ch-'a']==0){
-                return ch;
-            }
-            freq[ch-'a']--;
+            xor^=ch;
         }
-        return ' ';
+        return xor;
         
     }
 }
