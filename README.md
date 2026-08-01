@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harshita77-hem/leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Harshita77-hem/leetcode-/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/1901-find-a-peak-element-ii) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2643-row-with-maximum-ones](https://github.com/Harshita77-hem/leetcode-/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Harshita77-hem/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshita77-hem/leetcode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Stack
 |  |
 | ------- |
