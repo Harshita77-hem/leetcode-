@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harshita77-hem/leetcode-/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Harshita77-hem/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Harshita77-hem/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harshita77-hem/leetcode-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Harshita77-hem/leetcode-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harshita77-hem/leetcode-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Harshita77-hem/leetcode-/tree/master/0231-power-of-two) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Harshita77-hem/leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshita77-hem/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
