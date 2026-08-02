@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/1901-find-a-peak-element-ii) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2643-row-with-maximum-ones](https://github.com/Harshita77-hem/leetcode-/tree/master/2643-row-with-maximum-ones) |
+| [2942-find-words-containing-character](https://github.com/Harshita77-hem/leetcode-/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshita77-hem/leetcode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2942-find-words-containing-character](https://github.com/Harshita77-hem/leetcode-/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
