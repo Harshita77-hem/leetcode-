@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Harshita77-hem/leetcode-/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Harshita77-hem/leetcode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshita77-hem/leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshita77-hem/leetcode-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Harshita77-hem/leetcode-/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita77-hem/leetcode-/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshita77-hem/leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Harshita77-hem/leetcode-/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshita77-hem/leetcode-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Harshita77-hem/leetcode-/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Harshita77-hem/leetcode-/tree/master/0645-set-mismatch) |
 ## Counting
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harshita77-hem/leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Harshita77-hem/leetcode-/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/Harshita77-hem/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshita77-hem/leetcode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Harshita77-hem/leetcode-/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Harshita77-hem/leetcode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Harshita77-hem/leetcode-/tree/master/0704-binary-search) |
