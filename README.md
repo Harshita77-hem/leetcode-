@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Harshita77-hem/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Harshita77-hem/leetcode-/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshita77-hem/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Harshita77-hem/leetcode-/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Harshita77-hem/leetcode-/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshita77-hem/leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshita77-hem/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
