@@ -1,57 +1,21 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-
-        int count1 = 0, count2 = 0;
-        int candidate1 = 0, candidate2 = 0;
-
-        // Find the two potential candidates
-        for (int num : nums) {
-
-            if (count1 == 0 && num != candidate2) {
-                candidate1 = num;
-                count1 = 1;
-            }
-            else if (count2 == 0 && num != candidate1) {
-                candidate2 = num;
-                count2 = 1;
-            }
-            else if (num == candidate1) {
-                count1++;
-            }
-            else if (num == candidate2) {
-                count2++;
-            }
-            else {
-                count1--;
-                count2--;
+        int n=nums.length;
+        List<Integer> ans=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            if(!ans.contains(nums[i])){
+                int count=0;
+                for(int j=0;j<n;j++){
+                    if(nums[i]==nums[j]){
+                        count++;
+                    }
+                }
+                if(count>n/3){
+                    ans.add(nums[i]);
+                }
             }
         }
-
-        // Verify the candidates
-        count1 = 0;
-        count2 = 0;
-
-        for (int num : nums) {
-            if (num == candidate1) {
-                count1++;
-            }
-            else if (num == candidate2) {
-                count2++;
-            }
-        }
-
-        List<Integer> ans = new ArrayList<>();
-
-        if (count1 > nums.length / 3) {
-            ans.add(candidate1);
-        }
-
-        if (count2 > nums.length / 3) {
-            ans.add(candidate2);
-        }
-
         return ans;
+        
     }
 }
