@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harshita77-hem/leetcode-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
