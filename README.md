@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita77-hem/leetcode-/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshita77-hem/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harshita77-hem/leetcode-/tree/master/0645-set-mismatch) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshita77-hem/leetcode-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Harshita77-hem/leetcode-/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Harshita77-hem/leetcode-/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harshita77-hem/leetcode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harshita77-hem/leetcode-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Harshita77-hem/leetcode-/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Harshita77-hem/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/1021-remove-outermost-parentheses) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshita77-hem/leetcode-/tree/master/0023-merge-k-sorted-lists) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -275,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/1021-remove-outermost-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
