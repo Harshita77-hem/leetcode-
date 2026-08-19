@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshita77-hem/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harshita77-hem/leetcode-/tree/master/0645-set-mismatch) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshita77-hem/leetcode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Matrix
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshita77-hem/leetcode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshita77-hem/leetcode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Harshita77-hem/leetcode-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshita77-hem/leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
