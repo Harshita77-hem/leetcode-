@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita77-hem/leetcode-/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harshita77-hem/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshita77-hem/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Harshita77-hem/leetcode-/tree/master/0645-set-mismatch) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Harshita77-hem/leetcode-/tree/master/0023-merge-k-sorted-lists) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harshita77-hem/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/Harshita77-hem/leetcode-/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harshita77-hem/leetcode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harshita77-hem/leetcode-/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harshita77-hem/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Harshita77-hem/leetcode-/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0796-rotate-string) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshita77-hem/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harshita77-hem/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Harshita77-hem/leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harshita77-hem/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harshita77-hem/leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
