@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Harshita77-hem/leetcode-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Harshita77-hem/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harshita77-hem/leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Harshita77-hem/leetcode-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshita77-hem/leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Harshita77-hem/leetcode-/tree/master/0118-pascals-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harshita77-hem/leetcode-/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Harshita77-hem/leetcode-/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Harshita77-hem/leetcode-/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Harshita77-hem/leetcode-/tree/master/0645-set-mismatch) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshita77-hem/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshita77-hem/leetcode-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
