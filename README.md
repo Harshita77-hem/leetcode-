@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Harshita77-hem/leetcode-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Harshita77-hem/leetcode-/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Harshita77-hem/leetcode-/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Harshita77-hem/leetcode-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Harshita77-hem/leetcode-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Harshita77-hem/leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -393,6 +394,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Harshita77-hem/leetcode-/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Harshita77-hem/leetcode-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Harshita77-hem/leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Harshita77-hem/leetcode-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
