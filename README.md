@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshita77-hem/leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshita77-hem/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshita77-hem/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Harshita77-hem/leetcode-/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -410,4 +411,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harshita77-hem/leetcode-/tree/master/0037-sudoku-solver) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Harshita77-hem/leetcode-/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Harshita77-hem/leetcode-/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Harshita77-hem/leetcode-/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
