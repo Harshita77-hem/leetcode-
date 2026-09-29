@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Harshita77-hem/leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harshita77-hem/leetcode-/tree/master/0131-palindrome-partitioning) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Harshita77-hem/leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Harshita77-hem/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Harshita77-hem/leetcode-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Harshita77-hem/leetcode-/tree/master/0125-valid-palindrome) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Harshita77-hem/leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0040-combination-sum-ii) |
