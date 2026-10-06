@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Harshita77-hem/leetcode-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Harshita77-hem/leetcode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Harshita77-hem/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshita77-hem/leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Harshita77-hem/leetcode-/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Harshita77-hem/leetcode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshita77-hem/leetcode-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Harshita77-hem/leetcode-/tree/master/0290-word-pattern) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Harshita77-hem/leetcode-/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Harshita77-hem/leetcode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshita77-hem/leetcode-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
