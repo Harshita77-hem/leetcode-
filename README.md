@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshita77-hem/leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Harshita77-hem/leetcode-/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/Harshita77-hem/leetcode-/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/Harshita77-hem/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Harshita77-hem/leetcode-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Harshita77-hem/leetcode-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshita77-hem/leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshita77-hem/leetcode-/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Harshita77-hem/leetcode-/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/1021-remove-outermost-parentheses) |
