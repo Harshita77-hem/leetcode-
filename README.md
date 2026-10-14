@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2643-row-with-maximum-ones](https://github.com/Harshita77-hem/leetcode-/tree/master/2643-row-with-maximum-ones) |
 | [2942-find-words-containing-character](https://github.com/Harshita77-hem/leetcode-/tree/master/2942-find-words-containing-character) |
+| [3248-snake-in-matrix](https://github.com/Harshita77-hem/leetcode-/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Harshita77-hem/leetcode-/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Harshita77-hem/leetcode-/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Harshita77-hem/leetcode-/tree/master/0832-flipping-an-image) |
+| [3248-snake-in-matrix](https://github.com/Harshita77-hem/leetcode-/tree/master/3248-snake-in-matrix) |
 ## String
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Harshita77-hem/leetcode-/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Harshita77-hem/leetcode-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2942-find-words-containing-character](https://github.com/Harshita77-hem/leetcode-/tree/master/2942-find-words-containing-character) |
+| [3248-snake-in-matrix](https://github.com/Harshita77-hem/leetcode-/tree/master/3248-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
