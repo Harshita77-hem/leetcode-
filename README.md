@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Harshita77-hem/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Harshita77-hem/leetcode-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshita77-hem/leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Harshita77-hem/leetcode-/tree/master/0118-pascals-triangle) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Harshita77-hem/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harshita77-hem/leetcode-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Harshita77-hem/leetcode-/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Harshita77-hem/leetcode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0229-majority-element-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Harshita77-hem/leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Harshita77-hem/leetcode-/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Harshita77-hem/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshita77-hem/leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0344-reverse-string) |
