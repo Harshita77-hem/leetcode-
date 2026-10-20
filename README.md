@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Harshita77-hem/leetcode-/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Harshita77-hem/leetcode-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Harshita77-hem/leetcode-/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/Harshita77-hem/leetcode-/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/Harshita77-hem/leetcode-/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harshita77-hem/leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshita77-hem/leetcode-/tree/master/1903-largest-odd-number-in-string) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshita77-hem/leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshita77-hem/leetcode-/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Harshita77-hem/leetcode-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Harshita77-hem/leetcode-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshita77-hem/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harshita77-hem/leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Harshita77-hem/leetcode-/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Harshita77-hem/leetcode-/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
