@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Harshita77-hem/leetcode-/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Harshita77-hem/leetcode-/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Harshita77-hem/leetcode-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Harshita77-hem/leetcode-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Harshita77-hem/leetcode-/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Harshita77-hem/leetcode-/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/Harshita77-hem/leetcode-/tree/master/0412-fizz-buzz) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshita77-hem/leetcode-/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Harshita77-hem/leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Harshita77-hem/leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harshita77-hem/leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Harshita77-hem/leetcode-/tree/master/0131-palindrome-partitioning) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Harshita77-hem/leetcode-/tree/master/1042-flower-planting-with-no-adjacent) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harshita77-hem/leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
